@@ -1,9 +1,8 @@
 ##  👋 Hey! My Name is Bruno Vidotto!
 
 🎓 &nbsp; Computer Engineer.<br>
-👨‍💻 &nbsp; I'm a Software Developer in Technological Innovations - FITec.<br>
-💻 &nbsp; At the moment I'm working with Back-end Development and with data, pre-processing data and creating graphics using python.<br>
-🌱 I’m currently improving my Spring boot, Cloud computing and Machine learning skills.
+👨‍💻 &nbsp; I'm a Software Developer in Pagbank/Pagseguro - FITec.<br>
+💻 &nbsp; At the moment I'm working with Back-end Development, using Spring boot, Cloud computing and Microservices.
  ### 🛠️ &nbsp; Technologies:<br>
 <div>
  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
