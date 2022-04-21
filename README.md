@@ -1,7 +1,7 @@
 ##  👋 Hey! My Name is Bruno Vidotto!
 
 🎓 &nbsp; Computer Engineer.<br>
-👨‍💻 &nbsp; I'm a Software Developer in Pagbank/Pagseguro.<br>
+👨‍💻 &nbsp; I'm a Software Developer.<br>
 💻 &nbsp; At the moment I'm working with Back-end Development, using Spring boot, Cloud computing and Microservices.
  ### 🛠️ &nbsp; Technologies:<br>
 <div>
