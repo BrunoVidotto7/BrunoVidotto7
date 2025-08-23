@@ -1,8 +1,7 @@
 ##  👋 Hey! My Name is Bruno Vidotto!
 
-🎓 &nbsp; Computer Engineer.<br>
-👨‍💻 &nbsp; I'm a Software Developer.<br>
-💻 &nbsp; Currently I'm working with Back-end Development, using Spring boot, Cloud computing and Microservices.
+🎓 &nbsp; Bacharelor in Computer Engineer.<br>
+💻 &nbsp; Currently I'm working as a Software Engineer for Qikserve.
  ### 🛠️ &nbsp; Technologies:<br>
 <div>
  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -16,13 +15,6 @@
  <img align="center"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img align="center"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img align="center"  src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=grey">
-</div>
- <div>
- 
- ### 📈 &nbsp; Stats:<br>
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVidotto7&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-   
 </div>
 
   ## 
