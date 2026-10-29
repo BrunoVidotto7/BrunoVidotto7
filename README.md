@@ -1,7 +1,7 @@
 ##  👋 Hey! My Name is Bruno Vidotto!
 
 🎓 &nbsp; Bacharelor in Computer Engineer.<br>
-💻 &nbsp; Currently I'm working as a Software Engineer for Qikserve.
+💻 &nbsp; Currently I'm working as a Lead Software Engineer for The Access Group.
  ### 🛠️ &nbsp; Technologies:<br>
 <div>
  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
